@@ -4,5 +4,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Passion for web development and software engineering. 
 - 📫 How to reach me: dfsantos.dev@gmail.com
-- 💻 My Website: http://www.danesantos.me/
 - 👤 Linkedin: https://www.linkedin.com/in/dfsantos-dev/
